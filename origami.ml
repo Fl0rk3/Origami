@@ -1,6 +1,6 @@
 (*
     Autor: Florian Ficek
-    Code Review: 
+    Code Review: Kamil Pilkiewicz
 *)
 
 open List;;
